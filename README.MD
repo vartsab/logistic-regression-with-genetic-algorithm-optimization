@@ -31,7 +31,7 @@ This project focuses on building and optimizing machine learning models to class
 
 ## How to Use
 1. Clone the repository:
-```git clone https://github.com/your-username/breast-cancer-classification.git```
+```git clone https://github.com/vartsab/logistic-regression-with-genetic-algorithm-optimization.git```
 
 1. Install required dependencies:
 ```pip install -r requirements.txt```
