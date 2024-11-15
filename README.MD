@@ -36,7 +36,7 @@ This project focuses on building and optimizing machine learning models to class
 1. Install required dependencies:
 ```pip install -r requirements.txt```
 1. Run the notebook:
-```jupyter notebook breast_cancer_classification.ipynb```
+```jupyter notebook Logistic_Regression_with_Genetic_Algorithm_Optimization_in_Clasterization_for_Breast_cancer_wisconsin_(diagnostic)_dataset.ipynb```
 1. Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
 
